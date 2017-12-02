@@ -1,32 +1,13 @@
-## Welcome to GitHub Pages
+# Hello World
 
-You can use the [editor on GitHub](https://github.com/ksnydes/ksnydes.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a blog where we will be adding new entries
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Images
 
-### Markdown
+We will try to upload an image with prose.io
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![404]({{site.baseurl}}/404d.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
